@@ -56,6 +56,9 @@ gem 'kaminari'
 
 gem 'bcrypt', '~> 3.1.7'
 
+gem 'carrierwave'
+gem 'rmagick'
+
 group :production do
   gem 'pg'
 end
